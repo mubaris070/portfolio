@@ -39,8 +39,8 @@ nav{
 }
 
 .logo span{
-    color: rgb(109,67, 0);
-    text-shadow: 0 0 10px rgb(109,67, 0);
+    color: rgb(17, 17, 17);
+    text-shadow: 0 0 10px rgb(63, 63, 63);
 }
 
 .hamburg, .cancel{
